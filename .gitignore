@@ -23,3 +23,7 @@ desktop.ini
 ~$*.xlsx
 ~$*.xls
 ~$*.xlsm
+# Bases de datos locales de SQLite
+*.db
+*.sqlite
+*.sqlite3
